@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenCode CLI</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_keyboard">Keyboard</string>
+    <string name="action_restart">Restart</string>
+    <string name="settings_title">OpenCode Server</string>
+    <string name="label_server_url">OpenCode Server Base URL</string>
+    <string name="label_auth_token">Auth Token / API Key</string>
+    <string name="hint_token">Bearer token from your OpenCode server</string>
+    <string name="settings_help">Talks only to your OpenCode Server. No Gemini keys. No third-party LLM keys. No root. No Termux.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="saved">Saved</string>
+    <string name="error_url_required">Server URL is required</string>
+    <string name="error_url_scheme">Use http:// or https://</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_need_server">Configure OpenCode Server URL</string>
+    <string name="status_starting">Starting OpenCode…</string>
+    <string name="status_exited">Exited (%1$d)</string>
+</resources>

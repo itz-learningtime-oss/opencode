@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OpenCodeCli" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/bar_bg</item>
+        <item name="android:navigationBarColor">@color/bar_bg</item>
+        <item name="android:windowBackground">@color/terminal_bg</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="colorOnPrimary">@color/terminal_bg</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+</resources>

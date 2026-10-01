@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="terminal_bg">#0B1117</color>
+    <color name="terminal_fg">#D6E0EA</color>
+    <color name="bar_bg">#121A22</color>
+    <color name="status_bg">#18222C</color>
+    <color name="status_fg">#9CA3AF</color>
+    <color name="key_bg">#243140</color>
+    <color name="key_active">#1F6F8B</color>
+    <color name="accent">#56B6C2</color>
+</resources>
